@@ -1,0 +1,12 @@
+aiproject/
+notebooks/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+aiproject/
+notebooks/
+.env
+__pycache__/
+*.pyc
+.DS_Store
